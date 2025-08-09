@@ -10,6 +10,7 @@ Este projeto é a API backend desenvolvida em Node.js utilizando Express para um
 - Renovação de token (refresh token).
   
 O banco de dados utilizado é PostgreSQL.
+Já tem um arquivo banco.sql nos arquivos para subir localmente.
 
 ---
 
